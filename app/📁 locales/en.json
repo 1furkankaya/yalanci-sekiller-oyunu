@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "title": "Settings",
+    "soundEffects": "🔈 Sound Effects",
+    "muzik": "🎵 Background Music",
+    "darkTheme": "🌗 Theme (Dark)",
+    "language": "🌍 Language",
+    "tr": "Turkish 🇹🇷",
+    "en": "English 🇬🇧",
+    "back": "Back"
+  },
+  "level_easy": "Easy 🟢",
+  "level_medium": "Medium ⚠️",
+  "level_hard": "Hard 🔥",
+  "correct_button": "CORRECT",
+  "wrong_button": "WRONG",
+  "score": "Score",
+  "time": "Time",
+  "paused": "Game Paused ⏸",
+  "correct": "Correct! 🎯",
+  "watch_ad": "🎥 Watch Ad and Continue",
+  "restart": "🔁 Restart",
+  "pause": "Pause",
+  "continue": "Continue",
+  "select_difficulty": "Select Difficulty",
+  "highest_score": "🏆 Highest Score",
+  "game_over": "WRONG! ❌",
+  "time_up": "TIME UP ⏰",
+
+  "difficulty": {
+    "title": "Select Difficulty",
+    "easy": "🟢 Easy",
+    "medium": "🟡 Medium",
+    "hard": "🔴 Hard",
+    "auto": "🧠 Auto Difficulty",
+    "description": "Difficulty increases automatically as your score rises."
+  },
+
+  "shapes": {
+    "DAİRE": "CIRCLE",
+    "KARE": "SQUARE",
+    "ÜÇGEN": "TRIANGLE",
+    "YILDIZ": "STAR",
+  "altıgen": "HEXAGON",
+    "KALP": "HEART",
+    "daire": "CIRCLE",
+    "kare": "SQUARE",
+    "üçgen": "TRIANGLE",
+    "yildiz": "STAR",
+    "besgen": "PENTAGON",
+    "kalp": "HEART",
+    "altigen": "HEXAGON"
+  }
+}

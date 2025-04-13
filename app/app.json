@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Yalancı Şekiller",
+    "slug": "yalanci-sekiller",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/icon.png",
+    "splash": {
+      "image": "./images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourname.yalancisekiller",
+      "adaptiveIcon": {
+        "foregroundImage": "./images/icon.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./images/icon.png"
+    }
+  }
+}

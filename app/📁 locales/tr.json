@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "title": "Ayarlar",
+    "soundEffects": "🔈 Ses Efektleri",
+    "muzik": "🎵 Arka Plan Müziği",
+    "darkTheme": "🌗 Tema (Koyu)",
+    "language": "🌍 Dil",
+    "tr": "Türkçe 🇹🇷",
+    "en": "İngilizce 🇬🇧",
+    "back": "Geri"
+  },
+  "level_easy": "Kolay 🟢",
+  "level_medium": "Orta ⚠️",
+  "level_hard": "Zor 🔥",
+  "correct_button": "DOĞRU",
+  "wrong_button": "YANLIŞ",
+  "score": "Skor",
+  "time": "Süre",
+  "paused": "Oyun Durduruldu ⏸",
+  "correct": "Doğru! 🎯",
+  "watch_ad": "🎥 Reklam İzle ve Devam Et",
+  "restart": "🔁 Yeniden Başla",
+  "pause": "Duraklat",
+  "continue": "Devam Et",
+  "select_difficulty": "Zorluk Seç",
+  "highest_score": "🏆 En Yüksek Skor",
+  "game_over": "YANLIŞ! ❌",
+  "time_up": "SÜRE DOLDU ⏰",
+
+  "difficulty": {
+    "title": "Zorluk Seç",
+    "easy": "🟢 Kolay",
+    "medium": "🟡 Orta",
+    "hard": "🔴 Zor",
+    "auto": "🧠 Otomatik Zorluk",
+    "description": "Skorun arttıkça zorluk seviyesi otomatik olarak değişir."
+  },
+
+  "shapes": {
+    "DAİRE": "DAİRE",
+    "KARE": "KARE",
+    "ÜÇGEN": "ÜÇGEN",
+    "YILDIZ": "YILDIZ",
+    "ALTIGEN": "ALTIGEN",
+    "KALP": "KALP",
+
+    "daire": "DAİRE",
+    "kare": "KARE",
+    "üçgen": "ÜÇGEN",
+    "yıldız": "YILDIZ",
+    "altıgen": "ALTIGEN",
+    "kalp": "KALP"
+  }
+}
